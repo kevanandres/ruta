@@ -2,15 +2,26 @@
 
 A new Flutter project.
 
-## Getting Started
+Universidad de las Americas
 
-This project is a starting point for a Flutter application.
+Kevin Cárdenas.
 
-A few resources to get you started if this is your first Flutter project:
+Seminario de Sistemas.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Aplicacion 6 - Implementacion de Google Maps.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+La siguiente aplicacion utiliza los servicios API en Flutter, para hacer uso de google maps dentro de la aplicacion.
+
+Link de Gooogle Cloud: https://console.cloud.google.com/ 
+
+Link de Flutter: https://flutter.dev/docs/get-started/install/windows
+
+Dependencias:
+
+  cupertino_icons: ^1.0.0
+  
+  google_maps_flutter: ^0.5.21+2
+  
+  google_maps_webservice: ^0.0.14
+  
+  provider: ^3.1.0
